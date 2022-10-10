@@ -7,5 +7,5 @@ This template uses:
  - [x] Tailwind
  - [x] Absolute Paths ('@/components/MyComponent')
  - [x] Vite
- - [x] Github Pages Easy Deployment
+ - [x] Github Pages, For Easy Deployment
  - [x] Eslint

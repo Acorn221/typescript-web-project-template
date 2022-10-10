@@ -35,6 +35,21 @@ const App = () => {
             </XyzTransitionGroup>
           </button>
         </div>
+        <div className="m-5 text-left">
+          <div className="underline text-2xl mb-3">
+            This Template Uses:
+          </div>
+          <ul>
+            <li>○ Yarn</li>
+            <li>○ Typescript</li>
+            <li>○ React</li>
+            <li>○ Tailwind</li>
+            <li>○ Absolute Paths (@/components/MyComponent)</li>
+            <li>○ Vite</li>
+            <li>○ Github Pages, For Easy Deployment</li>
+            <li>○ Eslint</li>
+          </ul>
+        </div>
       </div>
     </div>
   );
