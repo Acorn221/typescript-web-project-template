@@ -1,5 +1,5 @@
 import React from 'react';
-import { XyzTransition, XyzTransitionGroup } from '@animxyz/react';
+import { XyzTransitionGroup } from '@animxyz/react';
 
 import '@/index.css';
 
